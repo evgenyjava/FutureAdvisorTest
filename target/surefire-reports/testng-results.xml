@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tests" duration-ms="37102" started-at="2016-06-27T23:22:22Z" finished-at="2016-06-27T23:22:59Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="37102" started-at="2016-06-27T23:22:22Z" finished-at="2016-06-27T23:22:59Z">
+      <class name="Tests">
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:Tests@2812cbfa]" name="loadPage" is-config="true" duration-ms="2222" started-at="2016-06-27T16:22:22Z" finished-at="2016-06-27T16:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="test001()[pri:0, instance:Tests@2812cbfa]" name="test001" duration-ms="34873" started-at="2016-06-27T16:22:24Z" finished-at="2016-06-27T16:22:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+      </class> <!-- Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Tests -->
+</testng-results>
